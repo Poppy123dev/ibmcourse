@@ -1,1 +1,1 @@
-Gitbit/github part of # ibmcourse
+Gitbit/github part of ibmcourse
